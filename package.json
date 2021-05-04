@@ -1,0 +1,16 @@
+{
+  "name": "wsswever",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server_ws.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server_ws.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "ws": "^7.4.5"
+  }
+}
